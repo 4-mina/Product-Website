@@ -1,0 +1,110 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color:#874a37;
+    color:white;
+}
+
+h3, h2{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+#title{
+    text-align: left;
+}
+
+@media (max-width: 990px){
+
+    #title{
+        text-align: center;
+    }
+}
+.download-btn{
+    margin: 5% 3% 5% 0%;
+}
+
+.white-section{
+    background-color: white;
+    color: black;
+
+}
+
+.catch-phrase{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#features{
+    padding:10% 15%;
+}
+
+.col-lg-4{
+    padding-left:5%;
+    padding-right:5%;
+}
+
+.icon{
+    margin-bottom: 1rem;
+    color:#43292a;
+}
+
+.icon:hover{
+    color: #874a37;
+}
+
+.container{
+    padding: 3% 10% 2%;;
+}
+
+.carousel-item{
+    padding: 5% 15% 2%;
+}
+
+.testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+    margin: 5% 5% 0%;
+}
+
+#press{
+    padding-bottom: 2%;
+}
+.partners{
+    width: 15%;
+    margin: 5% 7% 0%;
+}
+
+#pricing{
+    padding: 3%;
+}
+
+#cta{
+    padding: 5% 15% 7%;
+
+}
+
+.price-title{
+    padding: 4%;
+}
+
+.prices{
+    padding-bottom:2%;
+}
+
+#footer{
+    padding: 7% 15%;
+}
+
+.social{
+    color:darkslategrey;
+}
+
+.social:hover{
+    color: #874a37;
+}
+
+.copyright{
+    margin-top:2%;
+}
